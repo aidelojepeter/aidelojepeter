@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Peter Aideloje
+- 👀 I’m interested in Technical Writing
+- 🌱 I’m currently a lifelong learner 
+- 💞️ I’m looking to collaborate on technical documentation
+- 📫 How to reach me aidelojepeter123@gmail.com
